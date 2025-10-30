@@ -1,6 +1,7 @@
 <!-- Banner Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF61C9&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Dhafi+Akbar+Wibisono!;IoT+Engineer+%7C+Backend+Developer+%7C+Python+Enthusiast;Always+Learning+New+Things+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=FF61C9&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Dhafi+Akbar+Wibisono!;%20IoT+Engineer+%7C+Backend+Developer+%7C+Python+Enthusiast;Always+Learning+New+Things+%F0%9F%8C%9F" alt="Typing SVG" />
+
 </p>
 
 ---
