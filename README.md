@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 Hi there! I'm **Dhafi Akbar Wibisono**, a passionate developer from **Indonesia 🇮🇩**.  
-I focus on **IoT**, **Machine Learning**, and **Backend Development** using Python.  
+I focus on ** IoT**, **Machine Learning**, and **Backend Development** using Python.  
 My goal is to create impactful tech solutions for smart and sustainable living 🌱  
 
 - 🔭 Currently working on: **Smart Urban Garden IoT**
