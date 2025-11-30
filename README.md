@@ -68,7 +68,7 @@ My goal is to create impactful tech solutions for smart and sustainable living �
 ---
 
 ## 🧠 Favorite Quote
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Something Special Starts From Honesty" — akbrr
 
 ---
 
