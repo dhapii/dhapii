@@ -1,13 +1,13 @@
 <!-- Banner Header -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=FF61C9&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Dhafi+Akbar+Wibisono!;%20IoT+Engineer+%7C+Backend+Developer+%7C+Python+Enthusiast;Always+Learning+New+Things+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=FF61C9&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+kithlyy+or+dhapii!;%20IoT+Engineer+%7C+Backend+Developer+%7C+Python+Enthusiast;Always+Learning+New+Things+%F0%9F%8C%9F" alt="Typing SVG" />
 
 </p>
 
 ---
 
 ## 👋 About Me
-Hi there! I'm **Dhafi Akbar Wibisono**, a passionate developer from **Indonesia 🇮🇩**.  
+Hi there! I'm **dhapii/kithlyy**, a passionate developer from **Indonesia 🇮🇩**.  
 I focus on **IoT**, **Machine Learning**, and **Backend Development** using Python.  
 My goal is to create impactful tech solutions for smart and sustainable living 🌱  
 
